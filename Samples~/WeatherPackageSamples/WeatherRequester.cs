@@ -16,7 +16,6 @@ public class WeatherRequester : MonoBehaviour
     [Space]
     [SerializeField] private string openWeatherMapServiceApiKey;
 
-    //12339c213446dfcc099f07c574e2b96e
 
     private CancellationTokenSource cancellationTokenSource;
     private float defaultTimeout = 10f;

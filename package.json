@@ -1,0 +1,17 @@
+{
+  "name": "com.alexandermed.weatherapicaller",
+  "version": "1.0.0",
+  "displayName": "Weather API caller",
+  "description": "Unity Package for API Requests to Weather Services.",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "2.0.0",
+    "com.unity.textmeshpro": "2.1.6"
+  },
+  "samples": [
+    {
+      "displayName": "Package Samples",
+      "description": "Contains sample scene and test scripts",
+      "path": "Samples~/WeatherPackageSamples"
+    }
+  ]
+}

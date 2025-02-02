@@ -1,0 +1,26 @@
+{
+    "name": "AlexanderMed.WeatherAPICaller.Tests",
+    "rootNamespace": "",
+    "references": [
+        "AlexanderMed.WeatherAPICaller",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "WeatherAPICallerRuntime",
+        ""
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "Moq.dll",
+        "Castle.Core.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
